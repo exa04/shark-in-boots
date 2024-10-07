@@ -1,0 +1,30 @@
+{
+  "shork_ambient": {
+    "subtitles": "sounds.shorkinboots.shork_ambient",
+    "sounds": [
+      "shorkinboots:shork_ambient",
+      "shorkinboots:shork_ambient2",
+      "shorkinboots:shork_ambient3",
+      "shorkinboots:shork_ambient4",
+      "shorkinboots:shork_ambient5"
+    ]
+  },
+  "shork_hurt": {
+    "subtitles": "sounds.shorkinboots.shork_hurt",
+    "sounds": [
+      "shorkinboots:shork_hurt"
+    ]
+  },
+  "shork_death": {
+    "subtitles": "sounds.shorkinboots.shork_death",
+    "sounds": [
+      "shorkinboots:shork_death"
+    ]
+  },
+  "shork_nom": {
+    "subtitles": "sounds.shorkinboots.shork_nom",
+    "sounds": [
+      "shorkinboots:shork_nom"
+    ]
+  }
+}
